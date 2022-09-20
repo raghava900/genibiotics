@@ -1,0 +1,178 @@
+.task {
+  height: 170px;
+  width: 700px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 25px;
+}
+
+.main-container {
+  height: 250px;
+  width: 750px;
+  background-color: white;
+  margin-top: 50px;
+}
+
+.home {
+  display: flex;
+  flex-direction: row;
+}
+
+.box1 {
+  height: 75px;
+  width: 109px;
+  background-color: orange;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.box2 {
+  height: 75px;
+  width: 109px;
+  background-color: red;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.box3 {
+  height: 75px;
+  width: 109px;
+  background-color: green;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.box4 {
+  height: 75px;
+  width: 109px;
+  background-color: #02bef2;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.box-para {
+  color: white;
+  font-weight: 400;
+  margin: 3px;
+}
+
+.task-status {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.btn {
+  height: 30px;
+  width: 120px;
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+  border-width: 0px;
+  margin: 5px;
+}
+
+.popup-container {
+  height: 400px;
+  width: 600px;
+  box-shadow: 1px 1px 1px 3px grey;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.line {
+  background-color: grey;
+}
+
+.line2 {
+  background-color: grey;
+}
+
+.pop {
+  display: flex;
+}
+
+.pop-text {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #a6a5a2;
+  margin: 5px;
+}
+
+.pop-text3 {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: black;
+  margin: 5px;
+}
+
+.input {
+  margin: 3px;
+  height: 30px;
+  width: 190px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.input1 {
+  margin: 3px;
+  height: 70px;
+  width: 200px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.pop-buttons {
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
+
+.vl {
+  border-left: 3px solid aliceblue;
+  height: 300px;
+}
+
+.rr {
+  display: flex;
+}
+
+.tt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  height: 25px;
+  width: 550px;
+  margin: 5px;
+}
+
+.para23 {
+  text-align: right;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.all {
+  height: 20px;
+  width: 50px;
+  border-radius: 5px;
+  color: white;
+  background-color: #4098e6;
+}

@@ -1,0 +1,39 @@
+.header-container {
+  height: 10%;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 900;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.para1 {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+  color: green;
+}
+
+.circle {
+  height: 23px;
+  width: 25px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.logo {
+  margin-left: 5px;
+}
